@@ -5,7 +5,7 @@ apis:
   apiName@version:
     # Update the path to your OpenAPI root file
     # main: ./openapi.yaml
-      main: src/openapi.yaml
+      main: openapi/openapi.yaml
 extends:
   - recommended
   
